@@ -1,9 +1,33 @@
-- 👋 Hi, I’m Zack or @Novak478
-- 👀 I’m interested in all things DevOps and Data Engineering.
-- 🌱 I’m currently learning Docker, Kubernetes, Istio, Advanced Python
-- 📫 Reach me at znovak.io!
+##### Overview
 
-<!---
+- 👋 Hi, I’m Zack or @Novak478! 
+- 🔭 I’m currently working on startup things at Second Front Systems, a public benefit, venture-backed software company in the national defense space.
+- 👀 I’m interested in all things DevOps and Data Engineering! I'm actively looking to learn more about Istio, Advanced Python, Go and Kubernetes management.
+- 📫 Reach me at znovak@pm.me!
+
+##### Day-to-day Languages
+
+![](https://img.shields.io/badge/-python-black?style=flat-square&logo=Python)
+![](https://img.shields.io/badge/-sql-black?style=flat-square&logo=Sql)
+![](https://img.shields.io/badge/-bash-black?style=flat-square&logo=shell)
+
+##### Databases
+
+![](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL)
+![](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=speaud&label=Profile%20views&color=0e75b6&style=flat" alt="speaud" /> </p>
+
+<!-- ## Repo Insights
+
+![langStats](https://github-readme-stats.vercel.app/api/top-langs?username=Novak478&show_icons=true&locale=en&layout=compact)
+
+![commitStats](https://github-readme-stats.vercel.app/api?username=Novak478&show_icons=true&locale=en)
+
+![streakStats](https://github-readme-streak-stats.herokuapp.com/?user=Novak478&show_icons=true&locale=en) -->
+
+<!--
+
 Novak478/Novak478 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
