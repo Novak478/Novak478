@@ -17,6 +17,7 @@
 ![](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Novak478&label=Profile%20views&color=0e75b6&style=flat" alt="Novak478" /> </p>
+<!--
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Novak478)](https://github.com/Novak478/github-readme-stats)
 
