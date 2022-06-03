@@ -8,6 +8,7 @@
 ##### Day-to-day Languages
 
 ![](https://img.shields.io/badge/-python-black?style=flat-square&logo=Python)
+![](https://img.shields.io/badge/-terraform-black?style=flat-square&logo=Terraform)
 ![](https://img.shields.io/badge/-sql-black?style=flat-square&logo=Sql)
 ![](https://img.shields.io/badge/-bash-black?style=flat-square&logo=shell)
 
