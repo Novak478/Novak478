@@ -1,7 +1,7 @@
 ##### Overview
 
 - 👋 Hi, I’m Zack or @Novak478! 
-- 🔭 I’m currently working on startup things at Second Front Systems, a public benefit, venture-backed software company in the national defense space.
+- 🔭 I’m currently working on the Data Engineering team at CardinalCommerce, a subsidiary of Visa.
 - 👀 I’m interested in all things DevOps and Data Engineering! I'm actively looking to learn more about Istio, Advanced Python, Go and Kubernetes management.
 - 📫 Reach me at zackn@duck.com!
 
